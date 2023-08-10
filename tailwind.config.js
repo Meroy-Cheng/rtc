@@ -6,6 +6,9 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      serif: ["Noto Serif TC", "ui-serif", "Georgia"],
+    },
   },
   plugins: [],
 };
